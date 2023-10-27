@@ -31,5 +31,5 @@ function App() {
     </>
   )
 }
-//new
+//new data
 export default App
